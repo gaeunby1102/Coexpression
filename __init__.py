@@ -42,7 +42,7 @@ Last Updated: 25.11.02 by GEB
 Version: 2.1.0
 """
 
-from .Coexpression import GeneSetCorrTester
+from .Coexpression import *
 
 __version__ = "2.1.0"
 __author__ = "GEB"
